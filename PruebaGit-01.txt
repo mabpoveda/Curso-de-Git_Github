@@ -8,3 +8,6 @@ La fecha es 2026.
 
 Modificamos usuario y correo
 
+git show agregado
+
+
