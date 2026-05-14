@@ -1,6 +1,6 @@
 Ejercicio de prueba
 
-Chao a todos
+Continuamos con las pruebas
 
 Mi nombre es Melvin, curso de Git
 
@@ -12,5 +12,5 @@ git show agregado
 
 commit de prueba
 
-
+Chao a todos
 
